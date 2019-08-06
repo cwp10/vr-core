@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.XR;
 
-public class VRControllerTracking : MonoBehaviour 
+public class InputDeviceTracking : MonoBehaviour 
 {
 	[SerializeField] private XRNode whichNode_ = XRNode.LeftHand;
 

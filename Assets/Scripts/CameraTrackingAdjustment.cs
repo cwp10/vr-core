@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.XR;
 
-public class PlayerTrackingAdjustment : MonoBehaviour 
+public class CameraTrackingAdjustment : MonoBehaviour 
 {
 	[SerializeField] private TrackingSpaceType trackingSpaceType_ = TrackingSpaceType.RoomScale;
 	[SerializeField] private float playerHeight_ = 1.7f;
