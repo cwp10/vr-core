@@ -626,7 +626,7 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: 1ab4785c-81a1-40bf-84db-3caa36146f71
   projectName: VRInputDemo1
   organizationId: johnoh
